@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning PHP, Dart and Python
 - 💞️ I’m looking to collaborate on data-driven projects and innovative app development
-- 📫 How to reach me: You can email me at aprio-anggata@example.com or connect with me on LinkedIn
+- 📫 How to reach me: You can email me at aprio19@gmail.com or connect with me on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving debug from PHP, Visual Basic and Java
 
